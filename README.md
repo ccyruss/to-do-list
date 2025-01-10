@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<img width=100 src="https://github.com/ccyruss/to-do-list/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-10%20085725.png">
+<img  src="https://github.com/ccyruss/to-do-list/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-10%20085725.png">
 
 ## About Laravel
 
